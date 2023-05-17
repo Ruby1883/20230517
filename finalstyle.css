@@ -58,7 +58,7 @@ body header h1 {
 }
 
 .artistleft {
-    background-image: url(/330px-Chen_Chengpo_nd.jpg);
+    background-image: url(330px-Chen_Chengpo_nd.jpg);
     flex: 1;
     background-size: cover;
     background-position: 0% 19%;
